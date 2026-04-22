@@ -72,3 +72,21 @@ Veterans, military family members, VSO representatives, VA employees, developers
   <br><br>
   <sub>Built with <a href="https://mama.oliwoods.ai">MAMA</a> · Powered by <a href="https://cofounder.software">CoFounder</a><br>GPL-3.0 — Fork it. Deploy it. Make an impact.</sub>
 </p>
+
+## Expanded Agents (v2)
+
+| Agent | Role |
+|-------|------|
+| **BenefitsNavigator** | VA eligibility, claim filing, appeals guidance |
+| **HealthcareConnector** | VA hospital finder, telehealth, appointments |
+| **HousingAssistant** | HUD-VASH, transitional housing, SSVF |
+| **EmploymentCoach** | MOS-to-civilian translation, veteran-preference jobs |
+| **EducationAdvisor** | GI Bill, VET TEC, scholarships |
+| **MentalHealthSupport** | PTSD resources, VCL, peer support |
+| **LegalAid** | Discharge upgrades, VA claim appeals |
+| **FamilyServices** | Military family support, childcare, spouse employment |
+| **DisabilityClaimHelper** | VA disability rating optimizer, C&P exam prep, nexus letter guidance, appeal strategy |
+| **TransitionCoach** | TAP supplement, 180-day pre-separation planning, civilian culture translator |
+| **PeerMentor** | Match with veteran mentors who've successfully transitioned, same branch/MOS preferred |
+
+**11 agents. MANDATORY Veterans Crisis Line (988 press 1). Free forever.**
